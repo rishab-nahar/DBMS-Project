@@ -54,9 +54,3 @@ const handler = {
     postFollowDairy: postFollowDairy,
     postAddNewBookMark: postAddNewBookMark,
     getBookMarks: getBookMarks,
-    getMessages: getMessages,
-    getEditPage: getEditPage,
-    postEditPage: postEditPage,
-};
-
-module.exports.routesHandler = handler

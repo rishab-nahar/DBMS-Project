@@ -11,6 +11,5 @@ const getImageById = async (id) => {
 	}
 	return ret;
 }
-module.exports = getImageById;
-aure
+
 

@@ -5,11 +5,7 @@ const getImageById = async (id) => {
 	if (!img) {
 		return null;
 	}
-	const ret = {
-		contentType: img.contentType,
-		data: img.data.toString('base64')
-	}
-	return ret;
+	
 }
 
 abcdefghi

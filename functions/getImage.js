@@ -12,6 +12,3 @@ const getImageById = async (id) => {
 	return ret;
 }
 
-das
-
-sad
